@@ -3,11 +3,11 @@
 This is an **[Docker Compose template](https://github.com/Websoft9/docker-library)** powered by [Websoft9](https://www.websoft9.com) based on Docker for ONLYOFFICE Docs:
 
 
- - community:  8.3, latest
+ - community:  9.0, latest
 
- - enterprise:  8.3, latest
+ - enterprise:  9.0, latest
 
- - developer :  8.3, latest
+ - developer :  9.0, latest
 
 
 ## System Requirements

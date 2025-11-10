@@ -3,7 +3,7 @@
 This is an **[Docker Compose template](https://github.com/Websoft9/docker-library)** powered by [Websoft9](https://www.websoft9.com) based on Docker for Dify:
 
 
- - community:  1.4.3, latest
+ - community:  1.9.2, latest
 
 
 ## System Requirements
@@ -12,7 +12,7 @@ The following are the minimal [recommended requirements](https://dify.ai):
 
 * **RAM**: 4 GB or more
 * **CPU**: 2 cores or higher
-* **Disk**: at least 8 GB of free space
+* **Disk**: at least 9 GB of free space
 * **bandwidth**: more fluent experience over 100M  
 
 ## Install

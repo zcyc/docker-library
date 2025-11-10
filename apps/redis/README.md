@@ -3,7 +3,7 @@
 This is an **[Docker Compose template](https://github.com/Websoft9/docker-library)** powered by [Websoft9](https://www.websoft9.com) based on Docker for Redis:
 
 
- - community:  7.4, 7.2, 7.0, 6.0, 5.0, 4.0, latest
+ - community:  8.0, 7.4, 7.2, 7.0, 6.0, 5.0, 4.0, latest
 
 
 ## System Requirements

@@ -3,7 +3,7 @@
 This is an **[Docker Compose template](https://github.com/Websoft9/docker-library)** powered by [Websoft9](https://www.websoft9.com) based on Docker for FilePizza:
 
 
- - community:  7e8650f, latest
+ - community:  8ea276d, latest
 
 
 ## System Requirements

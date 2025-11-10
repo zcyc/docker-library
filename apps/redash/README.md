@@ -3,7 +3,7 @@
 This is an **[Docker Compose template](https://github.com/Websoft9/docker-library)** powered by [Websoft9](https://www.websoft9.com) based on Docker for Redash:
 
 
- - community:  25.1.0
+ - community:  25.8.0
 
 
 ## System Requirements

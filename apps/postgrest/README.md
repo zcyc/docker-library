@@ -3,7 +3,7 @@
 This is an **[Docker Compose template](https://github.com/Websoft9/docker-library)** powered by [Websoft9](https://www.websoft9.com) based on Docker for PostgREST:
 
 
- - community:  v12.2.3, latest
+ - community:  v13.0.4, latest
 
 
 ## System Requirements

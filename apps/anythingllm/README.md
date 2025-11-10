@@ -3,7 +3,7 @@
 This is an **[Docker Compose template](https://github.com/Websoft9/docker-library)** powered by [Websoft9](https://www.websoft9.com) based on Docker for AnythingLLM:
 
 
- - community:  1.7, latest
+ - community:  1.8, latest
 
 
 ## System Requirements

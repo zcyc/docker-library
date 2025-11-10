@@ -1,6 +1,6 @@
-# WordPress on Docker  
+# WordPress Pro on Docker  
 
-This is an **[Docker Compose template](https://github.com/Websoft9/docker-library)** powered by [Websoft9](https://www.websoft9.com) based on Docker for WordPress:
+This is an **[Docker Compose template](https://github.com/Websoft9/docker-library)** powered by [Websoft9](https://www.websoft9.com) based on Docker for WordPress Pro:
 
 
  - community:  6.8, latest
@@ -17,10 +17,10 @@ The following are the minimal [recommended requirements](https://www.wordpress.o
 
 ## Install
 
-You can install this WordPress by [How to use it?](https://github.com/Websoft9/docker-library#how-to-use-it).   
+You can install this WordPress Pro by [How to use it?](https://github.com/Websoft9/docker-library#how-to-use-it).   
 
-If you want use WordPress with **Websoft9 Business Support** free, you can [subscribe WordPress](https://www.websoft9.com/apps) on Cloud platform
+If you want use WordPress Pro with **Websoft9 Business Support** free, you can [subscribe WordPress Pro](https://www.websoft9.com/apps) on Cloud platform
 
 ## Documentation
 
-[WordPress Administrator Guide](https://support.websoft9.com/docs/wordpress) powered by Websoft9
+[WordPress Pro Administrator Guide](https://support.websoft9.com/docs/wordpresspro) powered by Websoft9

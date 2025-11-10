@@ -3,7 +3,7 @@
 This is an **[Docker Compose template](https://github.com/Websoft9/docker-library)** powered by [Websoft9](https://www.websoft9.com) based on Docker for AdguardHome:
 
 
- - community:  latest
+ - community:  v0.107.64, latest
 
 
 ## System Requirements

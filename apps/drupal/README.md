@@ -3,7 +3,7 @@
 This is an **[Docker Compose template](https://github.com/Websoft9/docker-library)** powered by [Websoft9](https://www.websoft9.com) based on Docker for Drupal:
 
 
- - community:  11.0.5-apache, 10.3.2-apache
+ - community:  11.2.2-apache, 11.0.5-apache, 10.3.2-apache
 
 
 ## System Requirements

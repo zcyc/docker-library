@@ -3,7 +3,7 @@
 This is an **[Docker Compose template](https://github.com/Websoft9/docker-library)** powered by [Websoft9](https://www.websoft9.com) based on Docker for Zammad:
 
 
- - community:  6.4, latest
+ - community:  6.5, latest
 
 
 ## System Requirements

@@ -3,7 +3,7 @@
 This is an **[Docker Compose template](https://github.com/Websoft9/docker-library)** powered by [Websoft9](https://www.websoft9.com) based on Docker for Mathesar:
 
 
- - community:  0.3.0
+ - community:  0.6.0
 
 
 ## System Requirements

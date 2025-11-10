@@ -3,7 +3,7 @@
 This is an **[Docker Compose template](https://github.com/Websoft9/docker-library)** powered by [Websoft9](https://www.websoft9.com) based on Docker for GoCD:
 
 
- - community:  v25.2.0
+ - community:  v25.3.0
 
 
 ## System Requirements

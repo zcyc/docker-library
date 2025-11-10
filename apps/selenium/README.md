@@ -3,7 +3,7 @@
 This is an **[Docker Compose template](https://github.com/Websoft9/docker-library)** powered by [Websoft9](https://www.websoft9.com) based on Docker for selenium:
 
 
- - community:  124.0-20250414, latest
+ - community:  137.0-20250727, latest
 
 
 ## System Requirements

@@ -3,7 +3,7 @@
 This is an **[Docker Compose template](https://github.com/Websoft9/docker-library)** powered by [Websoft9](https://www.websoft9.com) based on Docker for Metabase:
 
 
- - community:  v0.54.2.4, latest
+ - community:  v0.56.9.1, latest
 
 
 ## System Requirements

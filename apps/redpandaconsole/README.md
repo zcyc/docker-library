@@ -3,7 +3,7 @@
 This is an **[Docker Compose template](https://github.com/Websoft9/docker-library)** powered by [Websoft9](https://www.websoft9.com) based on Docker for Redpanda Console:
 
 
- - community:  v2.8.1, latest
+ - community:  v3.1.3, latest
 
 
 ## System Requirements

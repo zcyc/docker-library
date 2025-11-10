@@ -3,7 +3,7 @@
 This is an **[Docker Compose template](https://github.com/Websoft9/docker-library)** powered by [Websoft9](https://www.websoft9.com) based on Docker for Passbolt:
 
 
- - community:  5.2.0-1-ce, latest
+ - community:  5.3.2-1-ce, latest
 
 
 ## System Requirements

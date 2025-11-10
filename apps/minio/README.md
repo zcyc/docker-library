@@ -3,7 +3,7 @@
 This is an **[Docker Compose template](https://github.com/Websoft9/docker-library)** powered by [Websoft9](https://www.websoft9.com) based on Docker for Minio:
 
 
- - community:  RELEASE.2024-11-07T00-52-20Z, latest
+ - community:  RELEASE.2025-07-23T15-54-02Z, latest
 
 
 ## System Requirements
