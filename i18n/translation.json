@@ -430,5 +430,33 @@
     "W9_SMTP_PORT_SET": [
         "SMTP PORT",
         "SMTP 端口"
+    ],
+    "W9_OPENAI_BASE_URL_SET": [
+        "",
+        ""
+    ],
+    "W9_APP_NAME_SET": [
+        "",
+        ""
+    ],
+    "W9_MODEL_PROTOCOL_SET": [
+        "",
+        ""
+    ],
+    "W9_MODEL_NAME_SET": [
+        "",
+        ""
+    ],
+    "W9_MODEL_ID_SET": [
+        "",
+        ""
+    ],
+    "W9_MODEL_API_KEY_SET": [
+        "",
+        ""
+    ],
+    "W9_MODEL_BASE_URL_SET": [
+        "",
+        ""
     ]
 }
