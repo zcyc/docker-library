@@ -1,0 +1,30 @@
+# image: https://hub.docker.com/r/apache/doris/tags
+# docs: https://doris.apache.org/docs/dev/gettingStarted/quick-start/
+
+services:
+  fe:
+    image: $W9_REPO:$W9_VERSION
+    container_name: $W9_ID
+    restart: unless-stopped
+    env_file: .env
+    hostname: fe
+    ports:
+     - "8030:8030"
+    environment:
+     - FE_SERVERS=fe1:127.0.0.1:9010
+     - FE_ID=1
+    network_mode: host
+  be:
+    image: apache/doris:be-2.1.9
+    hostname: be
+    container_name: $W9_ID-be
+    restart: unless-stopped
+    environment:
+     - FE_SERVERS=fe1:127.0.0.1:9010
+     - BE_ADDR=127.0.0.1:9050
+    depends_on:
+      - fe
+    network_mode: host
+
+
+

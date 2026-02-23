@@ -1,21 +1,21 @@
 {
   "name": "streampipes",
   "trademark": "Apache StreamPipes",
-  "release": false,
+  "release": true,
   "fork_url": "https://github.com/apache/streampipes",
-  "version_from": "",
+  "version_from": "https://hub.docker.com/r/apachestreampipes/backend/tags",
   "edition": [
     {
       "dist": "community",
       "version": [
-        "latest"
+        "0.98.0"
       ]
     }
   ],
   "requirements": {
     "cpu": "2",
     "memory": "4",
-    "disk": "10",
+    "disk": "8",
     "url": "https://streampipes.apache.org"
   }
 }

@@ -1,14 +1,14 @@
 {
   "name": "datahub",
   "trademark": "DataHub",
-  "release": false,
+  "release": true,
   "fork_url": "https://github.com/datahub-project/datahub",
   "version_from": "",
   "edition": [
     {
       "dist": "community",
       "version": [
-        "v0.14.1"
+        "v1.1.0"
       ]
     }
   ],
